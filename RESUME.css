@@ -228,23 +228,3 @@ hr
 	left: 500px;
 
 }
-.connectext
-{
-	font-family: 'Times New Roman', Times, serif;
-	font-size: 20px;
-	text-align: center;
-	position: absolute;
-	top: 2120px;
-	left: 500px;
-	color: whitesmoke;
-}
-.copyright
-{
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	font-size: 15px;
-	text-align: center;
-	position: absolute;
-	top: 2350px;
-	left: 560px;
-	color: whitesmoke;
-}
